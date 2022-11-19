@@ -1,1 +1,1 @@
-deb [ trusted=yes ] http://repo.vivaldi.com/archive/deb/ stable main
+deb [signed-by=/usr/share/keyrings/q4a-vivaldi.gpg trusted=yes] http://repo.vivaldi.com/archive/deb/ stable main
