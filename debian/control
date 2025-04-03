@@ -6,7 +6,7 @@ Build-Depends: debhelper (>= 9~), q4os-devpack-base
 Standards-Version: 3.8.4
 
 Package: vivaldi-extq
-Architecture: all
+Architecture: amd64
 Pre-Depends: q4os-desktop (>= 4.0), vivaldi-stable
 Depends:
 Recommends:
