@@ -1,0 +1,7 @@
+//Unattended-Upgrade::Origins-Pattern {
+// "l=Vivaldi,a=stable";
+//};
+
+//?or
+//Unattended-Upgrade::Allowed-Origins:: "??q4os.org:${distro_codename}-vivaldi-cn";
+//Unattended-Upgrade::Allowed-Origins:: "??Vivaldi:${distro_codename}";
