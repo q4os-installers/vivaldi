@@ -1,0 +1,17 @@
+Source: q4os-vivaldi
+Section: none
+Priority: optional
+Maintainer: Q4OS Team <devteam@q4os.org>
+Build-Depends: debhelper (>= 9~), q4os-devpack-base
+Standards-Version: 3.8.4
+
+Package: q4os-vivaldi
+Architecture: all
+Pre-Depends: q4os-desktop (>= 4.0), vivaldi-stable
+Depends:
+Recommends:
+Conflicts:
+Provides: q4os-vivaldi
+Replaces:
+Breaks:
+Description: Vivaldi metapackage
