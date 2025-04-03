@@ -3,11 +3,11 @@
 # TEMPLATES_DIR_0="$TEMPLATESDIR0"
 TEMPLATES_DIR="qinstaller_templates"
 
-PK_NAME="q4os-vivaldi"
+PK_NAME="vivaldi-extq"
 APPNAME_DESC="Vivaldi browser"
 
 #-.qsi entries
-# INST_DEBS="q4os-vivaldi"
+# INST_DEBS="vivaldi-extq"
 PK_VERS="3.2-a1"
 Q4VER_MIN="4.0"
 # Q4VER_MAX="4.9999"

@@ -1,17 +1,17 @@
-Source: q4os-vivaldi
+Source: vivaldi-extq
 Section: none
 Priority: optional
 Maintainer: Q4OS Team <devteam@q4os.org>
 Build-Depends: debhelper (>= 9~), q4os-devpack-base
 Standards-Version: 3.8.4
 
-Package: q4os-vivaldi
+Package: vivaldi-extq
 Architecture: all
 Pre-Depends: q4os-desktop (>= 4.0), vivaldi-stable
 Depends:
 Recommends:
-Conflicts:
-Provides: q4os-vivaldi
+Conflicts: q4os-vivaldi
+Provides: vivaldi-extq
 Replaces:
 Breaks:
 Description: Vivaldi metapackage
