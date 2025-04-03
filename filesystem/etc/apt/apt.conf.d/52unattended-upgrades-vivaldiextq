@@ -1,5 +1,5 @@
 //Unattended-Upgrade::Origins-Pattern {
-// "l=Vivaldi,a=stable";
+// "o=Vivaldi Technologies,a=stable,l=Official Vivaldi package repository";
 //};
 
 //?or
